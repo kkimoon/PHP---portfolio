@@ -1,0 +1,20 @@
+
+#main_content { position: relative; width: 1000px; height: 240px; margin: 0 auto; }
+#trip_rank { position: absolute; top: 30px; left: 10px; }
+#trip_rank h4 { width: 500px; font-size: 16px; padding-bottom: 5px; border-bottom: solid 1px #dddddd; }
+#trip_rank ul { margin-top: 1px; }
+#trip_rank li {  margin-top: 8px; margin-left: 10px; padding: 10px 0; border-bottom: solid 1px #dddddd; }
+#trip_rank span { display: inline-block; }
+#trip_rank span:nth-child(1) { width: 100px; }
+#trip_rank span:nth-child(2) { width: 100px; }
+#trip_rank span:nth-child(3) { width: 150px; }
+
+#festival_rank { position: absolute; top: 30px; left: 590px; }
+#festival_rank h4 { width: 500px; font-size: 16px; padding-bottom: 5px; border-bottom: solid 1px #dddddd; }
+#festival_rank ul { margin-top: 1px; }
+#festival_rank li {  margin-top: 8px; margin-left: 10px; padding: 10px 0; border-bottom: solid 1px #dddddd; }
+#festival_rank span { display: inline-block; }
+#festival_rank span:nth-child(1) { width: 90px; }
+#festival_rank span:nth-child(2) { width: 170px; }
+#festival_rank span:nth-child(3) { width: 130px; }
+#festival_rank span:nth-child(4) { width: 85px; }
